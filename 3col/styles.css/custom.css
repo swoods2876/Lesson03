@@ -1,0 +1,19 @@
+.column1of3, .column2of3, .column3of3{
+	border: solid 1px;
+	padding: 10px 0px 5px 0px;
+	width: 300px;
+	float: left;
+	margin: 10px;
+	background-color: lightyellow;
+
+}
+
+h1{ 
+border: solid 1px;
+width: 100%;
+background-color: lightgreen;
+text-align: center;
+
+
+
+}
